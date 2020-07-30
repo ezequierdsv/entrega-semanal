@@ -1,0 +1,54 @@
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\bin\Debug\PrPapelitoFinal.exe.config
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\bin\Debug\PrPapelitoFinal.exe
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\bin\Debug\PrPapelitoFinal.pdb
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\bin\Debug\PrPapelitoFinal.xml
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.vbprojResolveAssemblyReference.cache
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.Form1.resources
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.frmListClientes.resources
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.frmListProduct.resources
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.frmListVendedores.resources
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.Resources.resources
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.vbproj.GenerateResource.Cache
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.exe
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.xml
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.pdb
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.frmAgregarCliente.resources
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.frmAgregarVendedor.resources
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.frmFacturas.resources
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.btnAgregar.resources
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\bin\Debug\PrPapelitoFinal.exe.manifest
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\bin\Debug\PrPapelitoFinal.application
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.exe.manifest
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.application
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.frmUsuarios.resources
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.frmNombClientes.resources
+C:\Users\eleze\Desktop\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.frmNombVende.resources
+D:\respaldo de archivos\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\bin\Debug\PrPapelitoFinal.exe.config
+D:\respaldo de archivos\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.exe
+D:\respaldo de archivos\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.xml
+D:\respaldo de archivos\aplicaicon final\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.pdb
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\bin\Debug\PrPapelitoFinal.exe.config
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.exe
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.xml
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.pdb
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\bin\Debug\PrPapelitoFinal.exe.manifest
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\bin\Debug\PrPapelitoFinal.application
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\bin\Debug\PrPapelitoFinal.exe
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\bin\Debug\PrPapelitoFinal.pdb
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\bin\Debug\PrPapelitoFinal.xml
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.vbprojResolveAssemblyReference.cache
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.Form1.resources
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.btnAgregar.resources
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.frmFacturas.resources
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.frmListClientes.resources
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.frmListProduct.resources
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.frmListVendedores.resources
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.frmUsuarios.resources
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.frmAgregarCliente.resources
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.frmAgregarVendedor.resources
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.frmNombClientes.resources
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.frmNombVende.resources
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.Resources.resources
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.vbproj.GenerateResource.Cache
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.exe.manifest
+C:\Users\eleze\Desktop\version 1\poapelito final\PrPapelitoFinal\PrPapelitoFinal\obj\Debug\PrPapelitoFinal.application

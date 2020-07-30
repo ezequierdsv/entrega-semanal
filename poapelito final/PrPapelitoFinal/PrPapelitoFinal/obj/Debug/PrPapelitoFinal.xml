@@ -1,0 +1,446 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PrPapelitoFinal
+</name>
+</assembly>
+<members>
+<member name="T:PrPapelitoFinal.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:PrPapelitoFinal.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:PrPapelitoFinal.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:PrPapelitoFinal.My.Resources.Resources.icons8_Broom_48px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PrPapelitoFinal.My.Resources.Resources.icons8_Checkmark_48px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.ClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.EntregasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.MercaderíaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.VendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.VentasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.UsuariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.AgregarClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.AgregarProductosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.AgregarVendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.ModificarClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.AgregarEntregaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.Usuarios1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.AgregarUsuarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.ModificaUsuariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.Usuarios2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.Usuarios3DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.InsertQueryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.Usuarios4DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.ClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.EntregasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.MercaderíaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.VendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.VentasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.UsuariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.AgregarClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.AgregarProductosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.AgregarVendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.ModificarClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.AgregarEntregaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.Usuarios1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.AgregarUsuarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.ModificaUsuariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.Usuarios2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.Usuarios3Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.InsertQueryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.Usuarios4Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.ClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.EntregasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.MercaderíaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.VendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.VentasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.UsuariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.AgregarClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.AgregarProductosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.AgregarVendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.ModificarClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.AgregarEntregaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.Usuarios1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.AgregarUsuarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.ModificaUsuariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.Usuarios2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.Usuarios3RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.InsertQueryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSet.Usuarios4RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.ClientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.EntregasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.MercaderíaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.VendedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.VentasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.UsuariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.AgregarClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.AgregarProductosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.AgregarVendedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.ModificarClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.AgregarEntregaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.Usuarios1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.AgregarUsuarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.ModificaUsuariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.Usuarios2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.Usuarios3TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.InsertQueryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.Usuarios4TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PrPapelitoFinal.GFacHojillaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PrPapelitoFinal.GFacHojillaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PrPapelitoFinal.GFacHojillaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.TableAdapterManager.UpdateAll(PrPapelitoFinal.GFacHojillaDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PrPapelitoFinal.GFacHojillaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
